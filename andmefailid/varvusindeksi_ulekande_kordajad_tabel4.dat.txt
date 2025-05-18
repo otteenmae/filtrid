@@ -1,0 +1,9 @@
+Varvusindeks	Vabaliige	Varvusindeksi ulekande kordaja	Standardhalve
+(B-V)	0.5301	1.0795	0.0018
+(V-Rc)	-0.3292	0.9246	0.0013
+(Rc-Ic)	0.7093	1.1944	0.0118
+(V-Ic)	0.2193	1.0526	0.0048
+(u-g)	-0.2535	1.0342	0.0271
+(g-r)	-0.5758	0.9983	0.0068
+(r-i)	0.3443	1.0593	0.0118
+(i-zs)	0.9660	0.7926	0.0036
